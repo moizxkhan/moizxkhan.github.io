@@ -1,0 +1,1 @@
+Object Oriented Programming has objects and class where a bunch of similar datatypes, variables are clumped up together for ease of use. Object oriented programming languages are known to be robust and modular.

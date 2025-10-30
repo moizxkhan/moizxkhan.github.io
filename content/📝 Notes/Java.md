@@ -1,0 +1,1 @@
+Java is a programming language developed by James Goslings at Bell Labaratories. It is a platform language which uses JVM (Java Virtual Machine) to run the code creating platform independent code. Java is known for being an [[Object Oriented Programming]] Language.

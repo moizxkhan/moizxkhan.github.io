@@ -1,0 +1,1 @@
+C is a programming language which was developed in AT&T labs by Dennis Ritchie

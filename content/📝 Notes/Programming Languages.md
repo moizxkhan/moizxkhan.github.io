@@ -1,0 +1,1 @@
+Programming languages are used to write computer applications and are used to give instructions to the [[Computer|computer]]. 

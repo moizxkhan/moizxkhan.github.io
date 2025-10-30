@@ -1,0 +1,1 @@
+Engineering is the application of scientific and practical knowledge to design, invent, build, innovate, maintain, improve existing processes and frameworks

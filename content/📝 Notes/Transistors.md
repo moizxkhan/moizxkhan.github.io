@@ -1,0 +1,1 @@
+Transistors are electronic devices which can hold electricity and release it at will. In the context of computers, when there is electricity then it is said to be the value 1 and the lack thereof is said to be the value zero

@@ -1,0 +1,1 @@
+Data Mining is the process of extracting knowledge from [[Data|data]]. Data Mining is a monomer because we do not mine data but mine knowledge from the data which are otherwise hidden and hard to see without the data mining techniques.

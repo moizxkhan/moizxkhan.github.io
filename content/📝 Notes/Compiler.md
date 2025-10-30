@@ -1,0 +1,1 @@
+A compiler is a software which converts high level programming language into low level programming language or it coverts the [[Source Code|source code]] into [[Object Code|object code]] which the computer can understand. As we know, the [[computer|computer]] can only understand zeros and ones.

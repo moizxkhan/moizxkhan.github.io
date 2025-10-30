@@ -1,0 +1,1 @@
+C++ is a programming language which was developed by Bjarne Stroustrup at AT&T labs. It is an extension of C and builds on it adding [[Objects|objects]] and classes. The name was supposed to be C with classes but it was named as C++ the ++ being the increment operator meaning C but the next version.
