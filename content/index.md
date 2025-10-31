@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Vault!
 ---
-hello testing testing
+Hi welcome!
