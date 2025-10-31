@@ -1,1 +1,0 @@
-The Binary Language is the language that the [[Computer|computer]] can understand. It consists of and is a combination of just zeros and ones. This is achieved by the use of [[transistors]] arranged in a series to form the basis on which a computer is built on.
