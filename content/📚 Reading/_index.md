@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: 📚 Reading
 weight: "2"
 ---
 

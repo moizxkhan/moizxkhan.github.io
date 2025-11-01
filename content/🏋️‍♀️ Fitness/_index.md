@@ -1,4 +1,4 @@
 ---
-title: Fitness
+title: 🏋️‍♀️ Fitness
 weight: "3"
 ---
