@@ -6,7 +6,7 @@ Categorising games is harder than categorising books. I found it easier to put b
 | ---- | ----------------------- | -------------------- | ----- |
 | 1    | PEAK                    | Aggro Crab, Landfall |       |
 | 2    | Another Crab's Treasure | Aggro Crab           |       |
-## 🎬🔥 Action Adventure 
+## 🎬 Action Adventure 
 
 | S.No | Title                              | Developers                       |
 | ---- | ---------------------------------- | -------------------------------- |
@@ -40,14 +40,14 @@ Categorising games is harder than categorising books. I found it easier to put b
 | 28   | Watch Dogs                         | Ubisoft                          |
 | 29   | Watch Dogs 2                       | Ubisoft                          |
 | 30   | Far Cry 4                          | Ubisoft                          |
-## 🧙‍♂️☢🔬🪐 Action RPG / Sci-Fi
+## ⚔ Action RPG / Sci-Fi
 
 | S.No | Title          | Developer      | Genre |
 | ---- | -------------- | -------------- | ----- |
 | 1    | Cyberpunk 2077 | CD Projekt Red |       |
 | 2    | Fallout 4      | Bethesda Games |       |
 | 3    | Starfield      | Bethesda Games |       |
-## 👻🧟‍♂️ Survival / Horror 
+## 👻 Survival / Horror 
 
 | S.No | Title                            | Developer         | Genre |
 | ---- | -------------------------------- | ----------------- | ----- |
@@ -69,7 +69,7 @@ Categorising games is harder than categorising books. I found it easier to put b
 | 3    | Call of Duty Ghosts                    | Infinity Ward          |       |
 | 4    | Call of Duty World at War Final Fronts | Rebellion Developments |       |
 | 5    | Call of Duty World War 2               | Sledgehammer Games     |       |
-## 🏎🏏🥊 Racing / Sports / Beat 'Em Up
+## 🎲 Miscellaneous
 
 |S.No|Title|Developers|
 |---|---|---|
