@@ -1,6 +1,8 @@
 ---
-title: Welcome to my Vault!
+title: Welcome to My Vault!
 ---
+![[img1.jpg]]
+
 Hello, I'm Moiz Khan.
 
 This is my digital vault, a place where I write about what I’m learning, explore ideas that interest me, and keep track of my progress over time.
@@ -11,7 +13,7 @@ This vault is like a living and breathing entity which I will be constantly upda
 
 Thank you for taking the time to go through my vault, I hope you find it useful or intriguing in some way or the other.
 
-# 🗺️ Map
+## 🗺️ Map
 
 Here’s a map to help you explore different sections of this vault.
 
