@@ -1,0 +1,3 @@
+The terminal that we often know about in windows is not called the terminal. It is in fact called a shell. The terminal is just the interface and not the actual thing that we use. Back in the earlier days the terminal was a device which was used to send instructions to the [[computer]]. The CLI (Command Line Interface).
+
+A shell is a program that serves as an interface between the user and the [[Operating System]].
