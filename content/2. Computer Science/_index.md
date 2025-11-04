@@ -1,4 +1,4 @@
 ---
-title: 1. 🖥 Computer Science
+title: 2. Computer Science
 weight: "1"
 ---

@@ -1,4 +1,4 @@
 ---
-title: 3. 🎮 Gaming
+title: 4. Gaming
 weight: "4"
 ---
