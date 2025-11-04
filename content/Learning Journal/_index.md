@@ -1,4 +1,5 @@
 ---
-title: 1. Learning Journal
+title: Learning Journal
+sort: "1"
 ---
 Over here I will document my learning process 
