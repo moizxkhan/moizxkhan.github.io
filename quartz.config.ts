@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Moiz Khan's Vault",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Moiz Khan's Vault",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -78,20 +78,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage({
-  sort: (a, b) => {
-    const aSort = Number(a.frontmatter?.sort)
-    const bSort = Number(b.frontmatter?.sort)
-
-    if (!isNaN(aSort) && !isNaN(bSort)) return aSort - bSort
-    if (!isNaN(aSort)) return -1
-    if (!isNaN(bSort)) return 1
-
-    const aTitle = a.frontmatter?.title ?? ""
-    const bTitle = b.frontmatter?.title ?? ""
-    return aTitle.localeCompare(bTitle)
-  },
-}),
+      Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
