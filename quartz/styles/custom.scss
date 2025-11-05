@@ -1,3 +1,38 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* -------------------------
+   Explorer font rendering tweaks
+   ------------------------- */
+
+.explorer {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+
+  font-size: 0.92rem;
+  letter-spacing: -0.01em;
+}
+
+.explorer .folder-title {
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.explorer a,
+.explorer .file a {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.explorer .folder-container svg,
+.explorer .file svg {
+  margin-right: 0.4rem;
+}
+
+.explorer a:hover,
+.explorer .folder-button:hover {
+  filter: brightness(0.95);
+}
