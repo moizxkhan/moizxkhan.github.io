@@ -1,5 +1,5 @@
 ---
-Title: 1. Journal
+title: 1. Journal
 ---
 
 Welcome to my journal section
