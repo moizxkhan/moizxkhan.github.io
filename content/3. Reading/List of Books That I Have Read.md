@@ -1,6 +1,6 @@
-# 🌙 Fiction
+## 🌙 Fiction
 
-## 🔪 Murder Mystery
+### 🔪 Murder Mystery
 
 | S.No | Title                       | Author          |
 | ---- | --------------------------- | --------------- |
@@ -16,7 +16,7 @@
 | 10   | Sleeping Murder             | Agatha Christie |
 | 11   | The Murder at The Vicarage  | Agatha Christie |
 
-## 🎩 Fantasy Fiction
+### 🎩 Fantasy Fiction
 
 | S.No | Title                                    | Author         |
 | ---- | ---------------------------------------- | -------------- |
@@ -32,14 +32,15 @@
 | 10   | The Two Towers                           | J.R.R. Tolkien |
 | 11   | The Return of The King                   | J.R.R. Tolkien |
 
-## 🪐 Science Fiction
+### 🪐 Science Fiction
 
-| S.No | Title             | Author    |
-| ---- | ----------------- | --------- |
-| 1    | The Martian       | Andy Weir |
-| 2    | Project Hail Mary | Andy Weir |
+| S.No | Title             | Author           |
+| ---- | ----------------- | ---------------- |
+| 1    | The Martian       | Andy Weir        |
+| 2    | Project Hail Mary | Andy Weir        |
+| 3    | Jurassic Park     | Michael Crichton |
 
-## 🎃 Thriller/Suspense
+### 🎃 Thriller/Suspense
 
 | S.No | Title             | Author          |
 | ---- | ----------------- | --------------- |
