@@ -54,17 +54,18 @@ To keep my list readable (and spare you from getting an aneurysm), I’ve organi
 
 ## 👻 Survival / Horror 
 
-| S.No | Title                            | Developer         |
-| ---- | -------------------------------- | ----------------- |
-| 1    | Resident Evil 2 Remake           | Capcom            |
-| 2    | Resident Evil 4 Remake           | Capcom            |
-| 4    | Days Gone                        | Bend Studios      |
-| 5    | The Last of Us Remastered        | Naughty Dog       |
-| 6    | The Last of Us Remake            | Naughty Dog       |
-| 7    | The Last of Us Part 2            | Naughty Dog       |
-| 8    | Dying Light                      | Techland          |
-| 9    | Dead Island 2                    | Dambuster Studios |
-| 10   | Call of Duty Black Ops 2 Zombies | Treyarch          |
+| S.No | Title                                | Developer         |
+| ---- | ------------------------------------ | ----------------- |
+| 1    | Resident Evil 2 Remake               | Capcom            |
+| 2    | Resident Evil 4 Remake               | Capcom            |
+| 4    | Days Gone                            | Bend Studios      |
+| 5    | The Last of Us Remastered            | Naughty Dog       |
+| 6    | The Last of Us Remake                | Naughty Dog       |
+| 7    | The Last of Us Part 2                | Naughty Dog       |
+| 8    | Dying Light                          | Techland          |
+| 9    | Dead Island 2                        | Dambuster Studios |
+| 10   | Call of Duty Black Ops 2 Zombies     | Treyarch          |
+| 11   | Red Dead Redemption Undead Nightmare | Rockstar Games    |
 
 ## 🔫 First Person Shooters
 

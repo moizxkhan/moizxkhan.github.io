@@ -1,0 +1,1 @@
+Whether you gain weight or lose weight is determined by the amount of calories that you consume daily. Weight gain does not have anything to do with the type of food. You can eat sugary stuff and still not gain weight as long as it remains within the normal limits.

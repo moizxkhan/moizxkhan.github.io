@@ -1,1 +1,1 @@
-Flowchart is the pictorial representation of a program
+Flowchart is the pictorial representation of a program.
