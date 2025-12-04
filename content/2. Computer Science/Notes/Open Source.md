@@ -1,0 +1,1 @@
+Open Source means the software whose source code is publicly available 
