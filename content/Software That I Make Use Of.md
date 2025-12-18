@@ -12,3 +12,10 @@ Some utility and quality of life software that I really like and I think are gre
 10. [Cryptomator](https://cryptomator.org/)
 11. [FFmpeg](https://www.ffmpeg.org/)
 12. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+13. [Vim Editor](https://www.vim.org/)
+14. [NeoVim](https://neovim.io/)
+15. [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
+16. [Flow Launcher](https://www.flowlauncher.com/)
+17. [Everything Search](https://www.voidtools.com/)
+18. [Affinity](https://www.affinity.studio/get-affinity)
+19. 
